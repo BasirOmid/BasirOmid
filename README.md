@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Basir Ahmad Omid
 - 👀 I’m interested in Coding and Electronics
-- 🌱 I’m currently learning Delphi
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me basirahmadomid58@gmail.com
 
